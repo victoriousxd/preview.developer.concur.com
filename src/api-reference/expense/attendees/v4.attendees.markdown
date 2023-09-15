@@ -639,7 +639,7 @@ https://{datacenterUri}/v4/attendees
 
 * [Create Attendee Request](#create-attendee-request-schema)
 
-* ### Response
+### Response
 
 #### Status Codes
 
@@ -653,10 +653,6 @@ https://{datacenterUri}/v4/attendees
 #### Headers
 
 * `concur-correlationid` is a SAP Concur specific custom header used for technical support in the form of a [RFC 4122 A Universally Unique IDentifier (UUID) URN Namespace](https://tools.ietf.org/html/rfc4122)
-
-#### Payload
-
-* [Create Attendee Response](#create-attendee-response-schema)
 
 ### Example
 
