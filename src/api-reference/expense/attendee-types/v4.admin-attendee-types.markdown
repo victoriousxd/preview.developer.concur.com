@@ -82,7 +82,7 @@ Content-Type: application/json
             "custom2"
         ],
         "isPublic": true,
-        "externalConnectorId": 1,
+        "externalConnectorId": gWvidmKNPVEaOg$s66rqA62OJVXfvHBMs4sw,
         "isDeleted": false,
         "allowManuallyEnteredAttendees": true,
         "allowAttendeeCountEditing": true,
