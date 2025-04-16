@@ -7,7 +7,9 @@ This API provides users with the capability to get all attendee types and associ
  Name                  | Description  | Verb
 -----------------------|--------------|------
  `attendee.admin.read` | Admin access | GET  |
+## Dependencies <a name="dependencies"></a>
 
+This API requires the use of the [Identity v4.1](/api-reference/profile/v4.1.identity.html) API to generate access tokens.
 ### Access Token Usage
 
 This API only supports company access tokens.
